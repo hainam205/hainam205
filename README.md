@@ -1,5 +1,6 @@
 # Welcome to my Github 👋
-I'm Le Cong Hai Nam
+I'm Hai Nam
+
 A passionate programmer from Vietnam.
 
 ### 📫 Liên hệ
