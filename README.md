@@ -1,4 +1,5 @@
-## Xin chào, mình là Hải Nam 👋
+## Welcome to my github
+My name's Le Cong Hai Nam
 
 🎓 Sinh viên 👉 [ngành/trường của bạn], đam mê **AI & Computer Vision**
 🔬 Mình quan tâm tới Deep Learning, Medical Image Segmentation và Machine Learning nói chung
